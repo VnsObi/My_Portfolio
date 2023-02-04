@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/1574W0a2uEFeN5KT1QpJwPjaTSSz5ykp0/view?usp=share_link";
+  "https://github.com/VnsObi/My_Portfolio/blob/master/src/Assets/Evans%20Obi%20I.T%20Resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
