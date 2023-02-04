@@ -3,7 +3,7 @@
   <a href="#" target="_blank">VnsObi</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/home.jpg" />
+  <img alt="Demo" src="./Images/Home.jpg" />
 </div>
 
 <br/>
