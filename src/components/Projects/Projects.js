@@ -25,7 +25,7 @@ function Projects() {
               title="Academy Web Template"
               description="The created web template is a pre-designed webpage structure that can be customized to fit the needs of a specific website or project. It typically includes elements such as a header, footer, navigation menu, and content areas, along with design elements such as colors, typography, and images. "
               ghLink="https://github.com/VnsObi/Tech-Institute"
-              demoLink="#"
+              demoLink="https://vnstech.vercel.app"
             />
           </Col>
 
