@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/Loading.gif";
 import academy from "../../Assets/Projects/snap.jpg";
-import bitsOfCode from "../../Assets/Projects/Loading.gif";
+import cantos from "../../Assets/Projects/cantos.jpg";
 
 function Projects() {
   return (
@@ -31,12 +31,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={cantos}
               isBlog={false}
-              title="Project in Dev"
-              description="Project still in development stage... To be uploaded soon "
+              title="Cantos gods NFT Project"
+              description="The website of Cantos gods NFT project showing navigation information on the project, link to the collection page and the roadmap of the project, including the doc. "
               ghLink="#"
-              demoLink="#"
+              Link="https://cantogods.vercel.app/"
             />
           </Col>
 
