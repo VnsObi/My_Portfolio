@@ -36,7 +36,7 @@ function Projects() {
               title="Cantos gods NFT Project"
               description="The website of Cantos gods NFT project showing navigation information on the project, link to the collection page and the roadmap of the project, including the doc. "
               ghLink="#"
-              Link="https://cantogods.vercel.app/"
+              Link="https://cantogods.vercel.app"
             />
           </Col>
 
