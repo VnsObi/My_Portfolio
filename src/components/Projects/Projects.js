@@ -5,6 +5,15 @@ import Particle from "../Particle";
 import editor from "../../Assets/Projects/Loading.gif";
 import academy from "../../Assets/Projects/snap.jpg";
 import cantos from "../../Assets/Projects/cantos.jpg";
+import tech from "../../Assets/Projects/tech.jpg";
+import flex from "../../Assets/Projects/flex.jpg";
+import herobiz from "../../Assets/Projects/herobiz.jpg";
+import biz from "../../Assets/Projects/biz.jpg";
+import dash from "../../Assets/Projects/dash.jpg";
+import logistics from "../../Assets/Projects/logis.jpg";
+import medlab from "../../Assets/Projects/medlab.jpg";
+import archi from "../../Assets/Projects/archi.jpg";
+import kitchen from "../../Assets/Projects/kitchen.jpg";
 
 function Projects() {
   return (
@@ -42,12 +51,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={tech}
               isBlog={false}
-              title="Project in Dev"
-              description="Project still in development stage... To be uploaded soon"
-              ghLink="#"
-              demoLink="#"              
+              title="Tech Company Website"
+              description="tech is a clean and modern business Bootstrap template designed specifically for startup, apps and IT services. You will be able to showcase your content on mobile devices such as smartphones, tablets and all types of devices. tech's design is driven by minimalist and unique sections. With this template pixel-perfect layout and neat sectioning, it will help you create a professional-looking website for your business in no time."
+              ghLink="https://github.com/VnsObi/Tech"
+              demoLink="https://tech-self.vercel.app/"              
             />
           </Col>     
         </Row>
