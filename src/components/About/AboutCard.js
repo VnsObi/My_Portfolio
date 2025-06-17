@@ -10,8 +10,20 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Evans Obi </span>
             from <span className="purple"> Delta State, Nigeria.</span>
-            <br />Currently, I work at Chibeco Oil and Gas Nigeria Limited, one of the
-             top Oil and Gas companies in Nigeria as the Process Head/Lead IT Officer in the IT Department.
+            <br />
+            I’m a versatile IT leader and full-stack developer with strong roots
+            in cybersecurity, enterprise infrastructure, and blockchain
+            security. I currently serve as the IT Manager for Ciuci Consulting,
+            where I oversee digital systems, infrastructure, and web assets
+            across multiple organizations including hospitals, logistics
+            platforms, and corporate portals. I also act as the Fractional CTO
+            for Dustid, a remote startup based in Manchester, London — where I
+            help drive technical strategy, product architecture, and team
+            coordination. My expertise blends on-ground IT deployments (CCTV,
+            access control, networking) with cloud systems, secure web
+            applications, and smart contract auditing. Whether it’s rebuilding
+            infrastructure for a healthcare facility, or auditing Ethereum-based
+            protocols, I bring clarity, reliability, and security to the table.
             <br />
             <br />
             Aside coding and tech, some other activities I love doing include!
